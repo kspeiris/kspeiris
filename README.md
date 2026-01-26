@@ -113,11 +113,9 @@ I focus on building **enterprise systems, applied machine learning models, and s
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kspeiris&theme=radical)
-
-</div>
+![Stars](https://img.shields.io/github/stars/kspeiris?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/kspeiris?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-25+-blue?style=for-the-badge)
 
 ---
 
