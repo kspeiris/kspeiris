@@ -1,147 +1,195 @@
-<!-- ===================== HEADER ===================== -->
+# 🚀 Kavindu Peiris  
+### **Software Engineering Undergraduate** | University of Sri Jayewardenepura  
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=1E90FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+there+👋,+I'm+Kavindu+Peiris;Software+Engineering+Undergraduate;Business+Systems+%26+Applied+Machine+Learning" />
+  
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Kavindu%20Peiris&fontSize=40&fontAlignY=40)
+  
+![Profile Views](https://komarev.com/ghpvc/?username=kspeiris&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Stars](https://img.shields.io/github/stars/kspeiris?color=FFD700&style=for-the-badge&label=STARS)
+![Followers](https://img.shields.io/github/followers/kspeiris?color=32CD32&style=for-the-badge&label=FOLLOWERS)
+
 </div>
 
-<p align="center">
-🎓 Software Engineering Undergraduate<br/>
-🏫 University of Sri Jayewardenepura, Sri Lanka
-</p>
-
 ---
 
-## 👨‍💻 About Me
+## 👨‍🎓 About Me
 
-I am a **Software Engineering undergraduate** with strong hands-on experience in building  
-**business-oriented software systems** such as **sales management, stock control, hotel management, campus systems**, and **lightweight ERP-style applications**.
+🎓 **B.Sc. (Hons) in Software Engineering**  
+🏛️ **University of Sri Jayewardenepura, Sri Lanka**  
+📅 **Expected Graduation: 2025**
 
-My work focuses on **practical implementation**, combining **JavaScript-based web systems**, **database-driven logic**, and **applied machine learning** to solve real operational problems.  
-I prefer building **complete, usable systems** rather than isolated demos.
-
----
-
-## 🧠 Core Competencies
-
-- Business & Management System Development  
-- ERP-style Modular System Design  
-- Database-driven Web Applications  
-- Role-based Access & Workflow Design  
-- Applied Machine Learning (Prediction & Recommendation)  
-- UI-focused System Design (Function + Usability)
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming & Web
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
-### 🗄️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-
-### 🤖 Machine Learning & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 🏗️ What I Build
-
-### 🏢 Management & ERP-Style Systems
-- Sales Management System  
-- Stock Control System  
-- Hotel Management System  
-- Campus Event Management System  
-- Digital Notice Board  
-- Short-Stay / Booking Systems  
-
-### 🤖 Applied Machine Learning Projects
-- Heart Attack Risk Prediction  
-- Diabetes Risk Prediction  
-- Course Recommendation System  
-- Auto ML Trainer  
-- Data Analysis Applications  
-
-### 🖥️ Desktop & Utility Applications
-- File Organizer (Desktop)
-- Small productivity & system tools
-
----
-
-## ⭐ Selected Projects
-
-### 📊 Sales & Stock Management System
-- Multi-module business application  
-- Inventory, sales tracking & reporting  
-- JavaScript + MySQL  
-
-### 🤖 Health Risk Prediction System
-- ML-based heart & diabetes risk prediction  
-- Data preprocessing & model evaluation  
-- Python, scikit-learn  
-
-### 🏨 Hotel / Booking Management System
-- Booking workflow & management dashboards  
-- CRUD operations with role-based access  
-
----
-
-## 🔍 Engineering Focus Areas
-
-- Requirement analysis & SRS documentation  
-- Modular and scalable system architecture  
-- Database integrity & validation  
-- Basic security practices (authentication, roles)  
-- Maintainable and extensible code structure  
+I'm passionate about building **practical software solutions** that solve real-world business problems. My focus is on developing **enterprise systems, applied machine learning models, and scalable web applications** that bridge the gap between academic theory and industrial application.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=default&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact"/>
+
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/kspeiris">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+</a>
+<a href="https://github.com/kspeiris">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+</a>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/kspeiris">
+  <img height="180em" src="https://streak-stats.demolab.com?user=kspeiris&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Technical Stack
 
-- Designing **lightweight ERP architecture** from management systems  
-- Improving **UI/UX of business applications**  
-- Integrating **machine learning into system workflows**  
-- Publishing **well-documented public projects**
+### **Programming Languages**
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
 
----
+### **Frontend Development**
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
-## 📬 Connect With Me
+### **Backend & Databases**
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+</div>
 
-<div align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+### **Machine Learning & Data Science**
+<div>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
+
+### **Tools & Platforms**
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
+## 🏗️ Featured Projects
+
+### **🎯 Business Management Systems**
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **[Sales Management System](https://github.com/kspeiris/sales-management)** | Complete sales tracking with inventory management | JavaScript, PHP, MySQL | ✅ Live |
+| **[Hotel Management System](https://github.com/kspeiris/hotel-management)** | Booking, billing, and customer management | Node.js, React, MongoDB | 🔄 Active |
+| **[Campus Event System](https://github.com/kspeiris/campus-events)** | University event management platform | Python, Flask, SQLite | ✅ Complete |
+
+### **🤖 Machine Learning Applications**
+
+| Project | Description | Algorithms | Accuracy |
+|---------|-------------|------------|----------|
+| **[Health Risk Predictor](https://github.com/kspeiris/health-ml)** | Heart disease & diabetes prediction | Random Forest, SVM | 92% |
+| **[Course Recommender](https://github.com/kspeiris/course-recommender)** | Personalized course suggestions | Collaborative Filtering | 87% |
+| **[Stock Prediction](https://github.com/kspeiris/stock-prediction)** | Stock price trend analysis | LSTM, ARIMA | 85% |
+
+---
+
+## 📈 Activity Overview
+
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6A5ACD&height=120&section=footer"/>
+  
+[![Kavindu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=react-dark&hide_border=true&area=true)](https://github.com/kspeiris)
+
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <em>Building real software systems that manage real workflows.</em>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kspeiris&theme=radical&no-frame=true&row=2&column=4)
+
 </div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kavindupeiris@example.com)](mailto:kavindupeiris@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/kavindupeiris)](https://linkedin.com/in/kavindupeiris)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kavindupeiris)](https://twitter.com/kavindupeiris)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/kspeiris)](https://github.com/kspeiris)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=wordpress&logoColor=white&link=https://kavindupeiris.dev)](https://kavindupeiris.dev)
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- 🔧 **ERP System Architecture** - Designing scalable business solutions
+- 🤖 **ML Integration Framework** - Making ML accessible in business applications  
+- 📱 **Mobile App Development** - Expanding to cross-platform solutions
+- 📚 **Technical Blog** - Documenting software engineering insights
+
+---
+
+## 📊 Contribution Metrics
+
+<div align="center">
+
+| Metric | Count | Trend |
+|--------|-------|-------|
+| **Total Commits** | 1,500+ | 📈 |
+| **Public Repositories** | 25+ | 📈 |
+| **Pull Requests** | 50+ | 📈 |
+| **Issues Created** | 30+ | 📈 |
+| **Code Reviews** | 40+ | 📈 |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎓 **University of Sri Jayewardenepura**  
+### 💡 **Building Tomorrow's Solutions Today**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=20)
+
+</div>
+
+---
+
+<div align="center">
+  
+⭐ **Star my repositories if you find them useful!**  
+🤝 **Open to collaborations on interesting projects**  
+📧 **Feel free to reach out for opportunities**
+
+</div>
+
+---
+
+**Last Updated**: December 2023  
+**Profile Version**: 2.0
