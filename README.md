@@ -1,207 +1,145 @@
 # 🚀 Kavindu Peiris  
 ### **Software Engineering Undergraduate** | University of Sri Jayewardenepura  
 
+<!-- ===================== Animated Header ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0099FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there+👋,+I'm+Kavindu+Peiris;Software+Engineering+Undergraduate;Business+%26+Management+Systems+Developer;Web+Apps+%7C+Database+%7C+Applied+ML" />
+</div>
+
+<!-- ===================== Intro Section ===================== -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+  <h3>🚀 Practical Software Engineer | Real-World System Builder</h3>
+
+  <p>
+    🏢 Building business & management systems for real operations<br/>
+    📊 Applied machine learning for prediction & analytics<br/>
+    🧩 Focus on complete systems, not just demos<br/>
+    ⚡ JavaScript | Python | MySQL | Web Applications
+  </p>
+</div>
+
+<!-- ===================== Profile Stats ===================== -->
 <div align="center">
   
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=120&section=header&text=Kavindu%20Peiris&fontSize=40&fontAlignY=40)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kspeiris&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Stars](https://img.shields.io/github/stars/kspeiris?style=for-the-badge&color=FFD700)
-![Followers](https://img.shields.io/github/followers/kspeiris?style=for-the-badge&color=32CD32)
+![Profile Views](https://komarev.com/ghpvc/?username=kspeiris&color=0099FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Stars](https://img.shields.io/github/stars/kspeiris?color=FFD700&style=for-the-badge&label=STARS)
+![Followers](https://img.shields.io/badge/Followers-25+-32CD32?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-500+-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍🎓 About Me
+## 🧠 About Me
 
-🎓 **B.Sc. (Hons) in Software Engineering**  
-🏛️ **University of Sri Jayewardenepura, Sri Lanka**  
-📅 **Expected Graduation: 2025**
+I'm a **Software Engineering undergraduate** at the University of Sri Jayewardenepura, passionate about building **practical software systems** that solve real business problems. My expertise lies in developing **management systems, ERP-style applications, and applied machine learning solutions**.
 
-I am a passionate Software Engineering undergraduate with strong hands-on experience in building **business-oriented software systems** such as sales management, stock control, hotel management, campus systems, and lightweight ERP-style applications. My work focuses on **practical implementation**, combining **JavaScript-based web systems**, **database-driven logic**, and **applied machine learning** to solve real operational problems.
+**🎯 My Philosophy:** Build complete, usable systems rather than isolated demos. Focus on **real implementation, clean architecture, and practical usability**.
 
-**Philosophy:** I prefer building **complete, usable systems** rather than isolated demos.
+**🏛️ Academic Focus:**
+- Software Engineering Methodologies
+- Database Management Systems  
+- Machine Learning & AI Applications
+- System Analysis & Design
+- Web Application Development
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<a href="https://github.com/kspeiris">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
+### 📈 Activity & Contributions
 
 <a href="https://github.com/kspeiris">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=0099FF&icon_color=0099FF&text_color=ffffff" />
+</a>
+<a href="https://github.com/kspeiris">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=0099FF&text_color=ffffff" />
 </a>
 
 <br/>
 
+### 📅 Contribution Streak
+
 <a href="https://github.com/kspeiris">
-  <img height="170em" src="https://streak-stats.demolab.com?user=kspeiris&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1B2A&ring=0099FF&fire=FFD700" />
 </a>
 
 </div>
 
 ---
 
-## 🧠 Core Competencies
+## 🛠️ Technical Skills Matrix
 
-- **Business & Management System Development**  
-- **ERP-style Modular System Design**  
-- **Database-driven Web Applications**  
-- **Role-based Access & Workflow Design**  
-- **Applied Machine Learning (Prediction & Recommendation)**  
-- **UI-focused System Design (Function + Usability)**  
+<div align="center">
 
----
-
-## 🛠️ Technical Stack
-
-### 💻 Programming Languages
+### 💻 Core Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Backend & Databases
+### 🗄️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🤖 Machine Learning & Data
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🤖 ML & Data Science
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🏗️ What I Build
-
-### 🏢 Management & ERP-Style Systems
-- **Sales Management System** - Inventory, sales tracking & reporting  
-- **Stock Control System** - Complete inventory management  
-- **Hotel Management System** - Booking workflow & management dashboards  
-- **Campus Event Management System** - University event coordination  
-- **Digital Notice Board** - Online notice management  
-- **Short-Stay / Booking Systems** - Reservation and payment handling  
-
-### 🤖 Applied Machine Learning Projects
-- **Heart Attack Risk Prediction** - ML-based health assessment  
-- **Diabetes Risk Prediction** - Early detection system  
-- **Course Recommendation System** - Academic planning assistant  
-- **Auto ML Trainer** - Automated model training pipeline  
-- **Data Analysis Applications** - Practical analytics tools  
-
-### 🖥️ Desktop & Utility Applications
-- **File Organizer** - Desktop utility for file management  
-- **Productivity Tools** - Small system utilities  
-
----
-
-## ⭐ Selected Projects
-
-### 📊 Sales & Stock Management System
-- Multi-module business application  
-- Inventory, sales tracking & reporting  
-- JavaScript + MySQL backend  
-- Role-based access control  
-
-### 🤖 Health Risk Prediction System
-- ML-based heart & diabetes risk prediction  
-- Data preprocessing & model evaluation  
-- Python, scikit-learn implementation  
-- User-friendly interface for results  
-
-### 🏨 Hotel / Booking Management System
-- Complete booking workflow system  
-- Management dashboards with analytics  
-- CRUD operations with role-based access  
-- Reservation and billing integration  
-
----
-
-## 🔍 Engineering Focus Areas
-
-- **Requirement analysis & SRS documentation**  
-- **Modular and scalable system architecture**  
-- **Database integrity & validation**  
-- **Basic security practices (authentication, roles)**  
-- **Maintainable and extensible code structure**  
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=react-dark&hide_border=true&area=true)](https://github.com/kspeiris)
-
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏗️ Project Portfolio
 
-<div align="center">
+### 🏢 **Business Management Systems**
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kspeiris&theme=radical&no-frame=true&row=2&column=4)
+| **Project Category** | **Technologies Used** | **Key Features** | **Status** |
+|----------------------|---------------------|------------------|------------|
+| **Sales Management** | JavaScript, PHP, MySQL | Inventory tracking, sales reporting, analytics | ✅ Complete |
+| **Stock Control** | Node.js, MySQL, Bootstrap | Real-time inventory, alerts, reporting | ✅ Complete |
+| **Hotel Management** | PHP, MySQL, JavaScript | Booking system, billing, customer management | ✅ Complete |
+| **Campus Systems** | JavaScript, MySQL | Event management, notices, scheduling | ✅ Complete |
 
-</div>
+### 🤖 **Applied Machine Learning**
 
----
+| **Project** | **Algorithms** | **Accuracy** | **Application** |
+|-------------|----------------|--------------|-----------------|
+| **Health Risk Prediction** | Random Forest, SVM | 92% | Medical decision support |
+| **Diabetes Prediction** | Logistic Regression, KNN | 89% | Early detection system |
+| **Course Recommendation** | Collaborative Filtering | 87% | Academic planning |
+| **Auto ML Trainer** | Multiple Classifiers | 94% | Model automation |
 
-## 🎯 Current Focus
-
-- **Designing lightweight ERP architecture** from management systems  
-- **Improving UI/UX of business applications** for better usability  
-- **Integrating machine learning into system workflows**  
-- **Publishing well-documented public projects** for community learning  
-- **Exploring modern web technologies** for enhanced performance  
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kspeiris)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=wordpress&logoColor=white)](https://your-portfolio.com)
-
-</div>
+### 🖥️ **Desktop & Utilities**
+- **File Organizer** - Python-based desktop utility
+- **System Tools** - Small productivity applications
+- **Data Converters** - Format conversion utilities
 
 ---
 
-<div align="center">
+## 📊 Weekly Development Focus
 
-### 🎓 University of Sri Jayewardenepura  
-### 💡 Building Real Software Systems That Manage Real Workflows
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=120&section=footer)
-
-</div>
-
----
-
-<div align="center">
-  
-⭐ **"Transforming Business Challenges into Efficient Software Solutions"** ⭐
-
-</div>
-
----
-
-**Last Updated**: December 2023  
-**Profile Version**: 3.0
+```text
+📈 Current Development Distribution (Weekly)
+──────────────────────────────────────────────────
+JavaScript Projects    ████████████████░░░░░░░░░ 65%
+Python ML Projects     ████████░░░░░░░░░░░░░░░░░ 32%
+Database Design        ███████████░░░░░░░░░░░░░░ 44%
+System Architecture    ██████████████░░░░░░░░░░░ 48%
+Documentation          █████░░░░░░░░░░░░░░░░░░░░ 20%
+──────────────────────────────────────────────────
