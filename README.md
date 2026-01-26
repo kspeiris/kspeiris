@@ -15,9 +15,9 @@
 
 ## 👨‍🎓 About Me
 
-🎓 **B.Sc. (Hons) in Software Engineering**  
+🎓 **B.Comp. Hons. in Software Engineering**  
 🏛️ **University of Sri Jayewardenepura, Sri Lanka**  
-📅 **Expected Graduation: 2025**
+📅 **Expected Graduation: 2026**
 
 I focus on building **enterprise systems, applied machine learning models, and scalable web applications** that bridge academic research with industrial solutions.
 
