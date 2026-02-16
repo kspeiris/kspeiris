@@ -28,23 +28,24 @@ I focus on building **enterprise systems, applied machine learning models, and s
 <div align="center">
 
 <a href="https://github.com/kspeiris">
-  <img height="170em" 
-       src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" />
 </a>
 
 <a href="https://github.com/kspeiris">
-  <img height="170em" 
+  <img height="170em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </a>
 
 <br/>
 
 <a href="https://github.com/kspeiris">
-  <img height="170em" 
-       src="https://streak-stats.demolab.com?user=kspeiris&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="170em"
+       src="https://streak-stats.demolab.com?user=kspeiris&theme=radical&hide_border=true" />
 </a>
 
 </div>
+
 
 
 ---
