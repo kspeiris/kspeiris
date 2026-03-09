@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Kavindu%20Peiris&fontSize=42&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=190&section=header&text=Kavindu%20Peiris&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Enterprise+Systems;Building+Scalable+Software+Solutions" alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kspeiris&style=for-the-badge&color=0e75b6)
 ![Followers](https://img.shields.io/github/followers/kspeiris?style=for-the-badge&logo=github)
-![Commits](https://img.shields.io/github/commit-activity/m/kspeiris/kspeiris?style=for-the-badge&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/kspeiris?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
 
 </div>
 
@@ -22,7 +22,7 @@
 🏛 **University of Sri Jayewardenepura, Sri Lanka**  
 📅 **Expected Graduation: 2027**
 
-I build **enterprise systems, scalable web applications, and applied machine learning solutions** that connect academic knowledge with real-world software engineering.
+I build **enterprise systems, scalable web applications, and applied machine learning solutions**.
 
 ### 🔬 Current Focus
 
@@ -59,7 +59,7 @@ I build **enterprise systems, scalable web applications, and applied machine lea
 
 ### Machine Learning & Data Science
 
-![Python ML](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
@@ -79,22 +79,35 @@ I build **enterprise systems, scalable web applications, and applied machine lea
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=kspeiris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true)](https://github.com/kspeiris)
+<img src="https://github-profile-trophy.vercel.app/?username=kspeiris&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -152,6 +165,6 @@ Topics include:
 
 ### 💡 Building Scalable Software & Intelligent Systems
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=130&section=footer" />
 
 </div>
