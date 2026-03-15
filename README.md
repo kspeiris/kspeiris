@@ -1,13 +1,25 @@
-# GitHub Analytics
+# Project Title
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kspeiris&theme=tokyonight)
+A brief description of your project.
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kspeiris&theme=tokyonight)
+## Installation
 
-![GitHub Stats Overview](https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight)
+Instructions for installing the project.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&theme=tokyonight)
+## Usage
 
-![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=repo1&theme=tokyonight)
+How to use the project, with examples if applicable.
 
-![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=repo2&theme=tokyonight)
+## Contributing
+
+Instructions for contributing to the project.
+
+## License
+
+Information about the project's license.
+
+## GitHub Analytics
+
+![GitHub Stats Overview](https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris)
+![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=kspeiris&show_owner=true)
