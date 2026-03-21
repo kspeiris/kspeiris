@@ -177,6 +177,34 @@ I build software that aims to be practical, scalable, and production-minded, wit
 
 ---
 
+## Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=donut&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+| Language Group | How I Use It |
+| --- | --- |
+| JavaScript | Frontend interfaces, client interactions, and Node.js backend development |
+| Python | Machine learning workflows, data processing, analytics, and experimentation |
+| PHP and Java | Academic systems, backend logic, and structured application development |
+| SQL and NoSQL | Data modeling, persistence, reporting, and application integration |
+
+---
+
+## GitHub Metrics
+
+| Metric | Focus |
+| --- | --- |
+| Repository Activity | Ongoing project development across full-stack, AI, and analytics domains |
+| Language Diversity | Work spans JavaScript, Python, PHP, Java, and database technologies |
+| Build Style | Preference for practical applications with backend structure and usable interfaces |
+| Contribution Pattern | Consistent emphasis on learning by building and shipping project-based work |
+
+---
+
 ## Professional Highlights
 
 | Strength Area | Summary |
@@ -199,6 +227,31 @@ I build software that aims to be practical, scalable, and production-minded, wit
 </picture>
 
 </div>
+
+---
+
+
+---
+
+## Current Learning and Focus
+
+- Strengthening backend architecture and API design for scalable applications
+- Expanding applied machine learning skills for production-oriented software features
+- Studying secure authentication, authorization, and defensive engineering patterns
+- Improving software design decisions around maintainability, performance, and structure
+- Exploring analytics, behavior analysis, and practical cybersecurity use cases
+
+---
+
+## Services I Can Build
+
+| Service Area | Examples |
+| --- | --- |
+| Full-Stack Web Applications | Dashboards, admin panels, booking systems, business platforms, content tools |
+| Backend APIs and Systems | REST APIs, authentication flows, database-driven services, integrations |
+| AI-Enabled Applications | Resume analyzers, prediction tools, smart workflows, analytics support systems |
+| Internal Business Tools | Reporting portals, management systems, workflow automation, operational software |
+| Data and Insights Tools | Data dashboards, analytics pipelines, classification systems, reporting features |
 
 ---
 
