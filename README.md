@@ -155,7 +155,7 @@ I build software that aims to be practical, scalable, and production-minded, wit
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=2" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
