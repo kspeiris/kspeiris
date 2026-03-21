@@ -11,6 +11,9 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency:
+      group: snake-${{ github.ref }}
+      cancel-in-progress: true
 
     steps:
       - name: Checkout repository
@@ -25,9 +28,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist

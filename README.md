@@ -1,4 +1,4 @@
-# 🚀 Kavindu Peiris
+# Kavindu Peiris
 
 <div align="center">
 
@@ -18,11 +18,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 **B.Comp. (Hons.) in Software Engineering**  
-🏛 **University of Sri Jayewardenepura, Sri Lanka**  
-📅 **Expected Graduation: 2027**
+**B.Comp. (Hons.) in Software Engineering**  
+**University of Sri Jayewardenepura, Sri Lanka**  
+**Expected Graduation: 2027**
 
 I am a **Software Engineering undergraduate** and **Full-Stack Developer** passionate about building **enterprise systems, scalable web applications, AI-driven solutions, and secure software architectures**.
 
@@ -30,7 +30,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 
 - Enterprise web application architecture
 - Full-stack development with modern frameworks
@@ -41,7 +41,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -61,20 +61,20 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-### Backend & Databases
+### Backend and Databases
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-### Machine Learning & Data Science
+### Machine Learning and Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
-### Tools & DevOps
+### Tools and DevOps
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -83,7 +83,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -98,7 +98,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=kspeiris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -122,7 +122,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -136,7 +136,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -144,12 +144,12 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
   <tr>
     <td>
       <a href="https://github.com/kspeiris/Hart_prediction_ml">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Hart_prediction_ml&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Hart_prediction_ml&theme=tokyonight&hide_border=true" alt="Hart prediction project" />
       </a>
     </td>
     <td>
       <a href="https://github.com/kspeiris/ai-resume-analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true" alt="AI resume analyzer project" />
       </a>
     </td>
   </tr>
@@ -157,12 +157,12 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
   <tr>
     <td>
       <a href="https://github.com/kspeiris/Developer-Behavior-Analytics-Tool">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Developer-Behavior-Analytics-Tool&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Developer-Behavior-Analytics-Tool&theme=tokyonight&hide_border=true" alt="Developer behavior analytics project" />
       </a>
     </td>
     <td>
       <a href="https://github.com/kspeiris/Auto_ml_trainner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Auto_ml_trainner&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Auto_ml_trainner&theme=tokyonight&hide_border=true" alt="Auto ML trainer project" />
       </a>
     </td>
   </tr>
@@ -170,12 +170,12 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
   <tr>
     <td>
       <a href="https://github.com/kspeiris/SmartBlog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=SmartBlog&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=SmartBlog&theme=tokyonight&hide_border=true" alt="SmartBlog project" />
       </a>
     </td>
     <td>
       <a href="https://github.com/kspeiris/svems-photography">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=svems-photography&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=svems-photography&theme=tokyonight&hide_border=true" alt="Photography project" />
       </a>
     </td>
   </tr>
@@ -184,7 +184,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 </div>
 
-## 🏗️ Featured Project Areas
+## Featured Project Areas
 
 ### Enterprise Systems
 - Inventory and stock control systems
@@ -192,13 +192,13 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 - Hotel and reservation systems
 - Campus and event management solutions
 
-### AI & Machine Learning
+### AI and Machine Learning
 - Prediction and classification systems
 - Recommendation systems
 - Data analysis and forecasting projects
 - Applied machine learning for real-world use cases
 
-### Web & Software Engineering
+### Web and Software Engineering
 - Full-stack web applications
 - REST API development
 - Authentication and secure access control
@@ -206,7 +206,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## ✍️ Technical Writing
+## Technical Writing
 
 I publish articles and technical write-ups on **software engineering, AI systems, cybersecurity, web security, and modern software architecture**.
 
@@ -228,7 +228,7 @@ I publish articles and technical write-ups on **software engineering, AI systems
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -240,11 +240,11 @@ I publish articles and technical write-ups on **software engineering, AI systems
 
 ---
 
-## 💡 Personal Motto
+## Personal Motto
 
 <div align="center">
 
-### Building Scalable Software & Intelligent Systems
+### Building Scalable Software and Intelligent Systems
 
 </div>
 
