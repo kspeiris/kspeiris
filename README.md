@@ -1,4 +1,4 @@
-# ?? Kavindu Peiris
+﻿# 🚀 Kavindu Peiris
 
 <div align="center">
 
@@ -18,11 +18,11 @@
 
 ---
 
-## ????? About Me
+## 👨‍💻 About Me
 
-?? **B.Comp. (Hons.) in Software Engineering**  
-?? **University of Sri Jayewardenepura, Sri Lanka**  
-?? **Expected Graduation: 2027**
+🎓 **B.Comp. (Hons.) in Software Engineering**  
+🏛 **University of Sri Jayewardenepura, Sri Lanka**  
+📅 **Expected Graduation: 2027**
 
 I am a **Software Engineering undergraduate** and **Full-Stack Developer** passionate about building **enterprise systems, scalable web applications, AI-driven solutions, and secure software architectures**.
 
@@ -30,7 +30,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## ?? Current Focus
+## 🔬 Current Focus
 
 - Enterprise web application architecture
 - Full-stack development with modern frameworks
@@ -41,7 +41,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## ?? Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -83,7 +83,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## ?? GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -112,17 +112,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## ?? GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kspeiris&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" width="100%" />
-
-</div>
-
----
-
-## ?? Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -136,7 +126,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## ?? Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -144,12 +134,12 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
   <tr>
     <td>
       <a href="https://github.com/kspeiris/Hart_prediction_ml">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Hart_prediction_ml&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Hart_prediction_ml&theme=tokyonight&hide_border=true" alt="Heart prediction ML project" />
       </a>
     </td>
     <td>
       <a href="https://github.com/kspeiris/ai-resume-analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true" alt="AI resume analyzer project" />
       </a>
     </td>
   </tr>
@@ -157,12 +147,12 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
   <tr>
     <td>
       <a href="https://github.com/kspeiris/Developer-Behavior-Analytics-Tool">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Developer-Behavior-Analytics-Tool&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Developer-Behavior-Analytics-Tool&theme=tokyonight&hide_border=true" alt="Developer behavior analytics project" />
       </a>
     </td>
     <td>
       <a href="https://github.com/kspeiris/Auto_ml_trainner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Auto_ml_trainner&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Auto_ml_trainner&theme=tokyonight&hide_border=true" alt="Auto ML trainer project" />
       </a>
     </td>
   </tr>
@@ -170,12 +160,12 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
   <tr>
     <td>
       <a href="https://github.com/kspeiris/SmartBlog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=SmartBlog&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=SmartBlog&theme=tokyonight&hide_border=true" alt="SmartBlog project" />
       </a>
     </td>
     <td>
       <a href="https://github.com/kspeiris/svems-photography">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=svems-photography&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=svems-photography&theme=tokyonight&hide_border=true" alt="Photography project" />
       </a>
     </td>
   </tr>
@@ -184,7 +174,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 </div>
 
-## ??? Featured Project Areas
+## 🏗️ Featured Project Areas
 
 ### Enterprise Systems
 - Inventory and stock control systems
@@ -206,7 +196,7 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 ---
 
-## ?? Technical Writing
+## ✍️ Technical Writing
 
 I publish articles and technical write-ups on **software engineering, AI systems, cybersecurity, web security, and modern software architecture**.
 
@@ -228,7 +218,7 @@ I publish articles and technical write-ups on **software engineering, AI systems
 
 ---
 
-## ?? Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -240,7 +230,7 @@ I publish articles and technical write-ups on **software engineering, AI systems
 
 ---
 
-## ?? Personal Motto
+## 💡 Personal Motto
 
 <div align="center">
 
@@ -255,4 +245,3 @@ I publish articles and technical write-ups on **software engineering, AI systems
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=130&section=footer" alt="Footer Banner" width="100%" />
 
 </div>
-
