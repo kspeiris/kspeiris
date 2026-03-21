@@ -155,7 +155,7 @@ I build software that aims to be practical, scalable, and production-minded, wit
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -177,13 +177,14 @@ I build software that aims to be practical, scalable, and production-minded, wit
 
 ---
 
-## Recognition
+## Professional Highlights
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kspeiris&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" width="100%" />
-
-</div>
+| Strength Area | Summary |
+| --- | --- |
+| Product Thinking | Focused on building software that solves practical user and business problems |
+| Full-Stack Delivery | Comfortable moving from UI work to APIs, databases, and system structure |
+| AI Application | Interested in applying machine learning and intelligent workflows to real use cases |
+| Engineering Discipline | Value clean architecture, secure design, maintainable code, and long-term scalability |
 
 ---
 
