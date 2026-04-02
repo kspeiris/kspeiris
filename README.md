@@ -1,4 +1,4 @@
-﻿# 🚀 Kavindu Peiris
+# 🚀 Kavindu Peiris
 
 <div align="center">
 
@@ -87,6 +87,8 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 <div align="center">
 
+**Loading GitHub Statistics...**
+
 <table>
   <tr>
     <td>
@@ -116,11 +118,15 @@ I enjoy bridging **academic learning** with **real-world implementation** throug
 
 <div align="center">
 
+**GitHub Contribution Snake Animation**
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg?token=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg?token=true" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg?token=true" width="100%" />
 </picture>
+
+*The snake animation updates automatically daily. If images don't load, check the [output branch](https://github.com/kspeiris/kspeiris/tree/output).* 
 
 </div>
 
