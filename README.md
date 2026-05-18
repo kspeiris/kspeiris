@@ -1,240 +1,246 @@
-﻿# 🚀 Kavindu Peiris
+# 🚀 Kavindu Peiris
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=210&section=header&text=Kavindu%20Peiris&fontSize=44&fontColor=ffffff&fontAlignY=35" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=240&section=header&text=Kavindu%20Peiris&fontSize=46&fontColor=ffffff&fontAlignY=38" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Enterprise+Systems;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%26+Cybersecurity+Researcher;Building+Scalable+and+Intelligent+Systems" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kspeiris&style=for-the-badge&color=0e75b6)
-![Followers](https://img.shields.io/github/followers/kspeiris?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/github/stars/kspeiris?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=kspeiris&style=for-the-badge&color=2563eb)
+![](https://img.shields.io/github/followers/kspeiris?style=for-the-badge&logo=github)
+![](https://img.shields.io/github/stars/kspeiris?style=for-the-badge&logo=github)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 **B.Comp. (Hons.) in Software Engineering**  
-🏛 **University of Sri Jayewardenepura, Sri Lanka**  
+🏛️ **University of Sri Jayewardenepura — Sri Lanka**  
 📅 **Expected Graduation: 2027**
 
-I am a **Software Engineering undergraduate** and **Full-Stack Developer** passionate about building **enterprise systems, scalable web applications, AI-driven solutions, and secure software architectures**.
+I am a passionate **Software Engineering undergraduate**, **Full-Stack Developer**, and emerging **AI & Cybersecurity Researcher** focused on building scalable, intelligent, and secure software systems.
 
-I enjoy bridging **academic learning** with **real-world implementation** through practical software projects, system design, and applied machine learning.
+My interests span across:
+
+- Full-stack web application development
+- AI-powered software solutions
+- Behavioral analytics and bot detection
+- Enterprise system architecture
+- Secure authentication systems
+- Machine learning applications
+- Software engineering best practices
+
+I enjoy transforming academic concepts into practical real-world systems through modern development technologies and research-driven implementation.
 
 ---
 
-## 🔬 Current Focus
+# 🔬 Current Research & Interests
 
-- Enterprise web application architecture
-- Full-stack development with modern frameworks
-- AI-driven systems and ML pipelines
-- Secure web application design
-- Cybersecurity and bot detection research
-- Scalable software engineering practices
+- Coordinated Bot Detection in Web & Mobile Systems
+- Behavioral Biometrics for Security
+- AI-assisted Software Engineering
+- Real-Time Detection Systems
+- Secure Enterprise Applications
+- Scalable Backend Architectures
+- Machine Learning Pipelines
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,php,java,react,html,css,bootstrap,nodejs,express,mongodb,mysql,firebase,docker,git,github,vscode,postman&perline=9" alt="Tech Stack Icons" />
-
-</div>
-
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-### Machine Learning & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,react,nodejs,express,laravel,mysql,mongodb,firebase,docker,git,github,postman,vscode&perline=9" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 💻 Programming Languages
+
+![](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
+
+---
+
+## 🌐 Frontend Development
+
+![](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
+![](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap)
+
+---
+
+## ⚙️ Backend & Databases
+
+![](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
+![](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express)
+![](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel)
+![](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase)
+
+---
+
+## 🤖 AI / Machine Learning
+
+![](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn)
+![](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas)
+![](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy)
+![](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter)
+
+---
+
+## 🛠 Tools & Platforms
+
+![](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
+![](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg" />
+    
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" />
+    
+  <img alt="Snake Animation"
+    src="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/kspeiris/Hart_prediction_ml">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Hart_prediction_ml&theme=tokyonight&hide_border=true" alt="Heart prediction ML project" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/kspeiris/ai-resume-analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true" alt="AI resume analyzer project" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/kspeiris/Developer-Behavior-Analytics-Tool">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Developer-Behavior-Analytics-Tool&theme=tokyonight&hide_border=true" alt="Developer behavior analytics project" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/kspeiris/Auto_ml_trainner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=Auto_ml_trainner&theme=tokyonight&hide_border=true" alt="Auto ML trainer project" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/kspeiris/SmartBlog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=SmartBlog&theme=tokyonight&hide_border=true" alt="SmartBlog project" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/kspeiris/svems-photography">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kspeiris&repo=svems-photography&theme=tokyonight&hide_border=true" alt="Photography project" />
-      </a>
-    </td>
-  </tr>
-
-</table>
-
-</div>
-
-## 🏗️ Featured Project Areas
-
-### Enterprise Systems
-- Inventory and stock control systems
-- Sales and business management platforms
-- Hotel and reservation systems
-- Campus and event management solutions
-
-### AI & Machine Learning
-- Prediction and classification systems
-- Recommendation systems
-- Data analysis and forecasting projects
-- Applied machine learning for real-world use cases
-
-### Web & Software Engineering
-- Full-stack web applications
-- REST API development
-- Authentication and secure access control
-- Scalable architecture design
+| Project | Description |
+|---|---|
+| [AI Resume Analyzer](https://github.com/kspeiris/ai-resume-analyzer) | AI-powered resume analysis and candidate evaluation platform |
+| [Developer Behavior Analytics Tool](https://github.com/kspeiris/Developer-Behavior-Analytics-Tool) | Behavioral analytics system for monitoring development activities |
+| [SmartBlog](https://github.com/kspeiris/SmartBlog) | Modern blogging platform with authentication and content management |
+| [Heart Prediction ML](https://github.com/kspeiris/Hart_prediction_ml) | Machine learning-based cardiovascular disease prediction system |
+| [Auto ML Trainer](https://github.com/kspeiris/Auto_ml_trainner) | Automated machine learning model training workflow |
+| [SVEMS Photography](https://github.com/kspeiris/svems-photography) | Photography portfolio and media showcase web platform |
 
 ---
 
-## ✍️ Technical Writing
+# 🏗️ Project Domains
 
-I publish articles and technical write-ups on **software engineering, AI systems, cybersecurity, web security, and modern software architecture**.
+## Enterprise Systems
+- Inventory Management Systems
+- Business Management Platforms
+- Reservation & Booking Systems
+- Campus/Event Management Solutions
 
-<div align="center">
+## AI & Machine Learning
+- Prediction Systems
+- Recommendation Systems
+- Data Analytics Applications
+- Intelligent Automation
 
-[![Medium](https://img.shields.io/badge/Medium-111827?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kavindup52)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kavindu-peiris-149375297/)
-[![Tech Writing Repo](https://img.shields.io/badge/Tech%20Writing%20Repo-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kspeiris/My-tech-blogs)
-
-</div>
-
-### Topics I Write About
-- Bot detection systems
-- Full-stack development
-- Enterprise software architecture
-- Secure authentication systems
-- AI integration in applications
-- Software engineering best practices
+## Cybersecurity & Research
+- Bot Detection Systems
+- Behavioral Biometrics
+- Authentication & Access Control
+- Secure System Design
 
 ---
 
-## 📫 Connect With Me
+# 📚 Research & Publications
+
+📄 **Systematic Review Research**
+> *A Systematic Review of Coordinated Bot Detection Techniques in Real-Time Web and Mobile Applications*
+
+### Research Areas
+- Coordinated Bot Detection
+- Behavioral Fingerprinting
+- Real-Time Security Analytics
+- Machine Learning Detection Models
+- Behavioral Biometrics
+
+---
+
+# ✍️ Technical Writing
+
+I regularly write technical content and research-based articles related to:
+
+- Software Engineering
+- AI Systems
+- Cybersecurity
+- Full-Stack Development
+- Modern Web Technologies
+- Secure Application Architecture
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kavindup52@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kavindu-peiris-149375297/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kspeiris)
+[![Medium](https://img.shields.io/badge/Medium-111827?style=for-the-badge&logo=medium)](https://medium.com/@kavindup52)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavindu-peiris-149375297/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/kspeiris)
 
 </div>
 
 ---
 
-## 💡 Personal Motto
+# 📫 Connect With Me
 
 <div align="center">
 
-### Building Scalable Software & Intelligent Systems
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail)](mailto:kavindup52@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavindu-peiris-149375297/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/kspeiris)
+
+</div>
+
+---
+
+# 💡 Personal Motto
+
+<div align="center">
+
+### Engineering Intelligent, Scalable & Secure Digital Solutions
 
 </div>
 
@@ -242,6 +248,6 @@ I publish articles and technical write-ups on **software engineering, AI systems
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=130&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=140&section=footer" width="100%" />
 
 </div>
