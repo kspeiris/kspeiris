@@ -147,51 +147,43 @@ My current research focuses on developing a lightweight behavioral fingerprintin
 
 # ⚡ Core Competencies
 
-### Software Engineering
+<div align="center">
 
-- Object-Oriented Programming
-- System Design
-- Software Architecture
-- Database Design
-- REST API Development
+| 💻 Software Engineering | 🤖 Machine Learning |
+|:---:|:---:|
+| Object-Oriented Programming | Data Analytics |
+| System Design | Classification Models |
+| Software Architecture | Feature Engineering |
+| Database Design | Predictive Systems |
+| REST API Development | Behavioral Data Analysis |
 
-### Cybersecurity
+| 🛡️ Cybersecurity | 🚀 Full-Stack Development |
+|:---:|:---:|
+| Behavioral Analytics | React |
+| Bot Detection Systems | Laravel |
+| Authentication & Authorization | Node.js |
+| Secure Software Development | PostgreSQL |
+| Security Monitoring | MongoDB |
 
-- Behavioral Analytics
-- Bot Detection Systems
-- Authentication & Authorization
-- Secure Software Development
-- Security Monitoring
-
-### Machine Learning
-
-- Data Analytics
-- Classification Models
-- Feature Engineering
-- Predictive Systems
-- Behavioral Data Analysis
-
-### Full-Stack Development
-
-- React
-- Laravel
-- Node.js
-- PostgreSQL
-- MongoDB
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 | Project | Description |
-|----------|------------|
-| Coordinated Bot Detection System | Real-time behavioral bot detection framework using machine learning |
-| Developer Behavior Analytics Tool | Behavioral analytics platform for activity monitoring |
-| AI Resume Analyzer | AI-powered candidate evaluation platform |
-| Heart Disease Prediction System | Machine learning-based healthcare prediction application |
-| Auto ML Trainer | Automated machine learning model training workflow |
-| SmartBlog | Full-stack content management platform |
-| Inventory Management System | Enterprise inventory and workflow solution |
+|----------|-------------|
+| 🤖 **Coordinated Bot Detection System** | Real-time behavioral bot detection framework using machine learning and behavioral analytics |
+| 📊 **Developer Behavior Analytics Tool** | User behavior monitoring and analytics platform |
+| 📄 **AI Resume Analyzer** | AI-powered resume screening and candidate evaluation system |
+| ❤️ **Heart Disease Prediction System** | Machine learning-based healthcare prediction application |
+| 🧠 **Auto ML Trainer** | Automated machine learning workflow and model training pipeline |
+| 📝 **SmartBlog** | Modern full-stack blogging and content management platform |
+| 🏢 **Inventory Management System** | Enterprise inventory and workflow management solution |
+
+</div>
 
 ---
 
