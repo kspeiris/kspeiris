@@ -2,40 +2,40 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=260&section=header&text=Kavindu%20Peiris&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=260&section=header&text=Kavindu%20Peiris&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Header Banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Software+Engineer;Cybersecurity+Researcher;AI+%26+Behavioral+Analytics+Enthusiast;Building+Intelligent+Secure+%26+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Software+Engineer;Cybersecurity+Researcher;AI+Enthusiast;Full-Stack+Developer" alt="Typing Animation" />
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=kspeiris&style=for-the-badge&color=2563eb)
-![](https://img.shields.io/github/followers/kspeiris?style=for-the-badge&logo=github)
-![](https://img.shields.io/github/stars/kspeiris?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=kspeiris&style=for-the-badge&color=2563eb)
+![Followers](https://img.shields.io/github/followers/kspeiris?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/kspeiris?style=for-the-badge&logo=github)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 **B.Comp. (Hons.) in Software Engineering**  
 🏛️ **University of Sri Jayewardenepura — Sri Lanka**  
 📅 **Expected Graduation: 2027**
 
-I am a Software Engineering undergraduate passionate about designing intelligent, secure, and scalable software systems. My work combines software engineering, behavioral analytics, machine learning, and cybersecurity research to build real-world solutions that address modern technological challenges.
+I am a Software Engineering undergraduate passionate about designing intelligent, secure, and scalable software systems. My work combines software engineering, behavioral analytics, machine learning, and cybersecurity to solve real-world problems.
 
 I enjoy transforming academic research into practical applications through full-stack development, data-driven decision-making, and security-focused system design.
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 <div align="center">
 
-| Software Engineering | Cybersecurity | Artificial Intelligence |
-|---------------------|---------------|-------------------------|
+| 💻 Software Engineering | 🔒 Cybersecurity | 🤖 Artificial Intelligence |
+|:---:|:---:|:---:|
 | System Design | Behavioral Analytics | Machine Learning |
 | Full-Stack Development | Bot Detection | Predictive Analytics |
 | Scalable Applications | Authentication Systems | Intelligent Automation |
@@ -45,249 +45,227 @@ I enjoy transforming academic research into practical applications through full-
 
 ---
 
-# 🔬 Research Focus
+## 🔬 Research Focus
 
-## Real-Time Coordinated Bot Detection Using Behavioral Analytics
+### 🎯 Real-Time Coordinated Bot Detection Using Behavioral Analytics
 
-My current research focuses on developing a lightweight behavioral fingerprinting framework capable of detecting coordinated automated activities in web applications through behavioral analytics and machine learning techniques.
+My current research focuses on developing a lightweight behavioral fingerprinting framework capable of detecting coordinated automated activities in web applications through behavioral analytics and machine learning.
 
-### Research Areas
-
-- Coordinated Bot Detection
-- Behavioral Fingerprinting
-- Human-Bot Interaction Analysis
-- Behavioral Biometrics
-- Real-Time Security Monitoring
-- Machine Learning Security
-- Privacy-Preserving Analytics
-- Intelligent Detection Systems
+**Key Research Areas:**
+- 🤖 Coordinated Bot Detection
+- 👣 Behavioral Fingerprinting
+- 🔍 Human-Bot Interaction Analysis
+- 🧬 Behavioral Biometrics
+- 📡 Real-Time Security Monitoring
+- 🛡️ Machine Learning Security
+- 🔐 Privacy-Preserving Analytics
+- 🧠 Intelligent Detection Systems
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,react,nodejs,express,laravel,postgres,mysql,mongodb,firebase,docker,git,github,postman,vscode&perline=9" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php" />
-
-</p>
-
----
-
-## 🌐 Frontend Development
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap" />
-
-</p>
-
----
-
-## ⚙️ Backend & Databases
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase" />
-
-</p>
-
----
-
-## 🤖 Machine Learning & Analytics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn" />
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy" />
-<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter" />
-
-</p>
-
----
-
-## 🛠 Tools & Platforms
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman" />
-<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode" />
-
-</p>
-
----
-
-# ⚡ Core Competencies
-
-### Software Engineering
-
-- Object-Oriented Programming
-- System Design
-- Software Architecture
-- Database Design
-- REST API Development
-
-### Cybersecurity
-
-- Behavioral Analytics
-- Bot Detection Systems
-- Authentication & Authorization
-- Secure Software Development
-- Security Monitoring
-
-### Machine Learning
-
-- Data Analytics
-- Classification Models
-- Feature Engineering
-- Predictive Systems
-- Behavioral Data Analysis
-
-### Full-Stack Development
-
-- React
-- Laravel
-- Node.js
-- PostgreSQL
-- MongoDB
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|------------|
-| Coordinated Bot Detection System | Real-time behavioral bot detection framework using machine learning |
-| Developer Behavior Analytics Tool | Behavioral analytics platform for activity monitoring |
-| AI Resume Analyzer | AI-powered candidate evaluation platform |
-| Heart Disease Prediction System | Machine learning-based healthcare prediction application |
-| Auto ML Trainer | Automated machine learning model training workflow |
-| SmartBlog | Full-stack content management platform |
-| Inventory Management System | Enterprise inventory and workflow solution |
-
----
-
-# 📈 Currently Learning
-
-- Advanced Machine Learning
-- Security Analytics
-- System Architecture
-- Real-Time Data Processing
-- Cloud Infrastructure
-- DevSecOps Concepts
-- Behavioral Intelligence Systems
-
----
-
-# 📊 GitHub Analytics
+## ⚡ Core Competencies
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true" />
+### 🏗️ Software Engineering
+```
+✓ Object-Oriented Programming    ✓ System Design
+✓ Software Architecture          ✓ Database Design
+✓ REST API Development           ✓ Microservices
+```
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=tokyonight&hide_border=true" />
+### 🔐 Cybersecurity
+```
+✓ Behavioral Analytics           ✓ Bot Detection Systems
+✓ Authentication & Authorization ✓ Secure Software Development
+✓ Security Monitoring            ✓ Vulnerability Assessment
+```
 
-<br><br>
+### 🤖 Machine Learning & AI
+```
+✓ Data Analytics                 ✓ Classification Models
+✓ Feature Engineering            ✓ Predictive Systems
+✓ Behavioral Data Analysis       ✓ Model Optimization
+```
 
-<img src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kspeiris&theme=tokyonight&column=7&margin-w=15&margin-h=15" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true" width="100%" />
+### 🌐 Full-Stack Development
+```
+✓ React & Modern Frontend        ✓ Node.js & Express Backend
+✓ Laravel Full-Stack             ✓ Database Architecture
+✓ REST/GraphQL APIs              ✓ Responsive Design
+```
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🚀 Featured Projects
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg" />
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" />
-
-  <img alt="Snake Animation"
-    src="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" />
-</picture>
+| 🎯 Project | 📝 Description |
+|:---|:---|
+| **Coordinated Bot Detection System** | Real-time behavioral bot detection framework using ML algorithms and behavioral fingerprinting |
+| **Developer Behavior Analytics Tool** | Comprehensive behavioral analytics platform for activity monitoring and anomaly detection |
+| **AI Resume Analyzer** | AI-powered candidate evaluation platform using NLP and machine learning |
+| **Heart Disease Prediction System** | ML-based healthcare prediction application with data analytics dashboard |
+| **Auto ML Trainer** | Automated machine learning model training and evaluation workflow |
+| **SmartBlog** | Full-stack content management platform with user authentication and rich editor |
+| **Inventory Management System** | Enterprise-level inventory tracking and workflow management solution |
 
 </div>
 
 ---
 
-# 📚 Areas of Interest
-
-- Software Engineering
-- Cybersecurity
-- Artificial Intelligence
-- Behavioral Analytics
-- Machine Learning
-- Secure System Design
-- Data Analytics
-- Enterprise Applications
-
----
-
-# 📫 Connect With Me
+## 📈 Currently Learning
 
 <div align="center">
 
-<a href="mailto:kavindup52@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://www.linkedin.com/in/kavindu-peiris-149375297/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/kspeiris">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
-</a>
+🔹 Advanced Machine Learning  
+🔹 Security Analytics  
+🔹 System Architecture  
+🔹 Real-Time Data Processing  
+🔹 Cloud Infrastructure (AWS/GCP)  
+🔹 DevSecOps Concepts  
+🔹 Behavioral Intelligence Systems  
+🔹 GraphQL & Advanced Backend Patterns
 
 </div>
 
 ---
 
-# 💡 Personal Motto
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### Engineering Intelligent, Secure & Scalable Digital Solutions
+### Quick Stats
+**Profile Views** • **Active Repositories** • **Total Contributions**
+
+<details open>
+<summary><b>📈 View Detailed Analytics</b></summary>
+
+> 🔗 **GitHub Stats:** [View on GitHub](https://github.com/kspeiris?tab=repositories)  
+> 🏆 **Profile Highlights:** [GitHub Profile](https://github.com/kspeiris)
+
+</details>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+```
+Tracking contributions and building consistency
+in software development and open source initiatives
+```
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true&point=36BCF7&line=36BCF7&area_color=1a1a2e)](https://github.com/kspeiris)
+
+</div>
+
+---
+
+## 💡 Development Highlights
+
+<div align="center">
+
+### 🎨 UI/UX Expertise
+- Modern, responsive interface design
+- Accessibility-first approach
+- Performance optimization
+- User-centered design principles
+
+### 🛠️ Backend Excellence
+- Scalable architecture design
+- API optimization
+- Database performance tuning
+- Secure authentication systems
+
+### 🔍 Security First
+- Behavioral threat detection
+- Secure coding practices
+- Privacy protection
+- Compliance-aware development
+
+### 📊 Data Intelligence
+- Predictive analytics
+- Real-time monitoring
+- Data visualization
+- Anomaly detection
+
+</div>
+
+---
+
+## 📚 Areas of Interest
+
+<div align="center">
+
+🔹 Software Engineering  
+🔹 Cybersecurity & Threat Detection  
+🔹 Artificial Intelligence & ML  
+🔹 Behavioral Analytics  
+🔹 Secure System Design  
+🔹 Data Analytics & Visualization  
+🔹 Enterprise Applications  
+🔹 Open Source Contribution  
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavindup52@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-peiris-149375297/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kspeiris)
+
+**Feel free to reach out for collaborations, discussions, or opportunities!**
+
+</div>
+
+---
+
+## 💡 Personal Motto
+
+<div align="center">
+
+### 🎯 Engineering Intelligent, Secure & Scalable Digital Solutions
+
+*Transforming ideas into impactful technology through innovation and excellence.*
 
 </div>
 
@@ -295,6 +273,8 @@ My current research focuses on developing a lightweight behavioral fingerprintin
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=140&section=footer" width="100%" alt="Footer Wave" />
+
+**Made with ❤️ by Kavindu Peiris | Last Updated: 2026** 
 
 </div>
