@@ -203,8 +203,23 @@ My current research focuses on developing a lightweight behavioral fingerprintin
 
 <div align="center">
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=3600" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true" />
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true" width="100%" />
 
