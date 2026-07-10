@@ -217,33 +217,43 @@ My current research develops a lightweight behavioural fingerprinting framework 
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight" 
-        alt="Kavindu's GitHub Stats" 
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&theme=tokyonight" 
-        alt="Top Languages" 
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img 
-        src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight" 
-        alt="GitHub Streak" 
-      />
-    </td>
-  </tr>
+<tr>
+<td>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+/>
+
+</td>
+
+<td>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true"
+/>
+
+</td>
+</tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true" width="100%" />
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true&area=true"
+/>
 
 </div>
 
@@ -253,10 +263,20 @@ My current research develops a lightweight behavioural fingerprinting framework 
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake Animation"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 
 </div>
 
