@@ -6,13 +6,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full-Stack+Software+Engineer;Cybersecurity+Researcher;AI+%26+ML+Specialist;Building+Intelligent%2C+Secure+%26+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full-Stack+Software+Engineer;Cybersecurity+Researcher;ML+%26+AI+Specialist" />
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=kspeiris&style=for-the-badge&color=2563eb)
-![](https://img.shields.io/github/followers/kspeiris?style=for-the-badge&logo=github)
-![](https://img.shields.io/github/stars/kspeiris?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=kspeiris&style=for-the-badge&color=2563eb)
+![Followers](https://img.shields.io/github/followers/kspeiris?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/kspeiris?style=for-the-badge&logo=github)
 
 </div>
 
@@ -24,9 +24,9 @@
 🏛️ **University of Sri Jayewardenepura - Sri Lanka**  
 📅 **Expected Graduation: 2027**
 
-Innovative software engineer with **3+ years of experience** building production-grade applications across machine learning, cybersecurity, enterprise systems, and full-stack development. I specialise in **end-to-end project delivery** from architecture and development to deployment with a portfolio of **70+ projects** spanning multiple domains.
+Innovative software engineer with **3+ years of experience** building production-grade applications across machine learning, cybersecurity, enterprise systems, and full-stack development. I specialize in designing intelligent, secure, and scalable digital solutions.
 
-I am passionate about solving complex problems through intelligent design and cutting-edge technology. My work combines **software engineering**, **behavioral analytics**, **machine learning**, and **cybersecurity** to build real-world solutions that address modern technological challenges.
+I am passionate about solving complex problems through intelligent design and cutting-edge technology. My work combines **software engineering**, **behavioral analytics**, **machine learning**, and **cybersecurity** to create impactful solutions.
 
 ---
 
@@ -50,7 +50,7 @@ I am passionate about solving complex problems through intelligent design and cu
 
 ## Real-Time Coordinated Bot Detection Using Behavioral Analytics
 
-My current research develops a lightweight behavioural fingerprinting framework capable of detecting coordinated automated activities in web and mobile applications through behavioural analytics and machine learning techniques.
+My current research develops a lightweight behavioural fingerprinting framework capable of detecting coordinated automated activities in web and mobile applications through behavioural analytics and machine learning.
 
 **Research Areas:**
 - Coordinated Bot Detection
@@ -197,7 +197,7 @@ My current research develops a lightweight behavioural fingerprinting framework 
 
 | Domain | Certifications |
 |--------|----------------|
-| **AI & Machine Learning** | AI/ML Engineer – Stage 1 & 2 (SLIIT) · AWS ML & AI Fundamentals · Full‑Stack Deep Learning (LinkedIn) · Deep Learning with PyTorch (Coursera) · NLP & Text Mining · Critical Thinking in AI |
+| **AI & Machine Learning** | AI/ML Engineer – Stage 1 & 2 (SLIIT) · AWS ML & AI Fundamentals · Full‑Stack Deep Learning (LinkedIn) · Deep Learning with PyTorch (Coursera) · NLP & Text Mining |
 | **Cybersecurity** | Cisco Introduction to Cybersecurity · Junior SOC (Vibe Security) · Nmap Scanning · Cybersecurity Awareness |
 | **Cloud Computing** | AWS Cloud Practitioner · Azure Cognitive Services · S3 Basics · Cloud Computing Fundamentals |
 | **Data Science** | Data Science & Analytics (HP LIFE) · Business Analytics with Excel · Google Analytics · BigQuery |
@@ -218,31 +218,23 @@ My current research develops a lightweight behavioural fingerprinting framework 
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-/>
+**📈 Quick Stats**
 
-</td>
-
-<td>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
+- **Public Repos:** [View on GitHub](https://github.com/kspeiris?tab=repositories)
+- **Total Contributions:** [See Activity](https://github.com/kspeiris)
+- **Followers:** [View Profile](https://github.com/kspeiris)
 
 </td>
-</tr>
+<td width="50%">
 
-<tr>
-<td colspan="2" align="center">
+**🏆 Profile Highlights**
 
-<img
-  src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true"
-/>
+- 3+ years of experience
+- Full-stack development
+- ML & AI expertise
+- Cybersecurity focus
 
 </td>
 </tr>
@@ -250,32 +242,12 @@ My current research develops a lightweight behavioural fingerprinting framework 
 
 <br>
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true&area=true"
-/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
+**🐍 Contribution Snake Animation**
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kspeiris/kspeiris/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
