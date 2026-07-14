@@ -216,44 +216,25 @@ My current research develops a lightweight behavioural fingerprinting framework 
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+  <table>
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=kspeiris&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-/>
+  <br>
 
-</td>
-
-<td>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kspeiris&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=kspeiris&theme=tokyonight&hide_border=true"
-/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true&area=true"
-/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kspeiris&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
