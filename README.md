@@ -239,6 +239,11 @@ My current research develops a lightweight behavioural fingerprinting framework 
 </div>
 
 ---
+## 🌐 Top Languages
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kspeiris&langs_count=5&theme=tokyonight" alt="Top Langs" />
+</div>
 
 # 🐍 Contribution Snake
 
