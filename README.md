@@ -311,12 +311,20 @@ My current research develops a lightweight behavioural fingerprinting framework 
 <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://www.linkedin.com/in/kavindu-peiris-149375297/">
+<a href="https://www.linkedin.com/in/kspeiris/">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://github.com/kspeiris">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.kavindupeiris.me/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome" />
+</a>
+
+<a href="https://kspeiris.medium.com/">
+<img src="https://img.shields.io/badge/Medium-111827?style=for-the-badge&logo=medium" />
 </a>
 
 </div>
