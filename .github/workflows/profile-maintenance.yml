@@ -1,4 +1,4 @@
-name: Daily Profile Activity
+name: Profile Maintenance
 
 on:
   schedule:
@@ -60,7 +60,7 @@ PY
 
             git add README.md
 
-            git commit -m "chore: profile maintenance $i/$COUNT"
+            git commit -m "chore: update profile metadata"
             git pull --rebase origin main || true
             git push
 
