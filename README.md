@@ -346,3 +346,6 @@ My current research develops a lightweight behavioural fingerprinting framework 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=140&section=footer" width="100%" />
 
 </div>
+
+<!-- profile-automation: 2026-09-05 -->
+

@@ -1,11 +1,9 @@
-name: Daily Activity
+name: Daily Profile Activity
 
 on:
   schedule:
-    # Runs once every day at 00:15 UTC
     - cron: "15 0 * * *"
 
-  # Allows you to test it manually
   workflow_dispatch:
 
 permissions:
@@ -26,22 +24,49 @@ jobs:
           git config user.name "Kavindu Peiris"
           git config user.email "kavindup52@gmail.com"
 
-      - name: Generate random number of updates
+      - name: Generate random commit count
+        id: count
         run: |
           COUNT=$((RANDOM % 6 + 7))
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "Today's commits: $COUNT"
 
-          echo "Today's activity count: $COUNT"
+      - name: Create automated commits
+        run: |
+          COUNT=${{ steps.count.outputs.count }}
 
           for i in $(seq 1 $COUNT)
           do
-            echo "Automated project activity - $(date -u)" >> activity.log
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
 
-            git add activity.log
+            export TIMESTAMP
+            python3 - <<'PY'
+import os
+import re
+from pathlib import Path
 
-            git commit -m "chore: update project activity #$i"
+path = Path("README.md")
+text = path.read_text(encoding="utf-8")
+timestamp = os.environ.get("TIMESTAMP", "")
 
+text = re.sub(
+    r'<!-- profile-automation:.*? -->',
+    f'<!-- profile-automation: {timestamp} -->',
+    text
+)
+
+path.write_text(text, encoding="utf-8")
+PY
+
+            git add README.md
+
+            git commit -m "chore: profile maintenance $i/$COUNT"
+            git pull --rebase origin main || true
             git push
 
-            # Random delay between commits
-            sleep $((RANDOM % 60 + 30))
+            if [ "$i" -lt "$COUNT" ]; then
+              DELAY=$((RANDOM % 300 + 120))
+              echo "Waiting $DELAY seconds..."
+              sleep "$DELAY"
+            fi
           done
