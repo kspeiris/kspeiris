@@ -1,0 +1,47 @@
+name: Daily Activity
+
+on:
+  schedule:
+    # Runs once every day at 00:15 UTC
+    - cron: "15 0 * * *"
+
+  # Allows you to test it manually
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "Kavindu Peiris"
+          git config user.email "kavindup52@gmail.com"
+
+      - name: Generate random number of updates
+        run: |
+          COUNT=$((RANDOM % 6 + 7))
+
+          echo "Today's activity count: $COUNT"
+
+          for i in $(seq 1 $COUNT)
+          do
+            echo "Automated project activity - $(date -u)" >> activity.log
+
+            git add activity.log
+
+            git commit -m "chore: update project activity #$i"
+
+            git push
+
+            # Random delay between commits
+            sleep $((RANDOM % 60 + 30))
+          done
