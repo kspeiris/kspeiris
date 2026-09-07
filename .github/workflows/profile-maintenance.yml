@@ -2,26 +2,23 @@ name: Profile Maintenance
 
 on:
   schedule:
-    - cron: "15 0 * * *"
-
+    - cron: "17 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  activity:
+  maintenance:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Configure Git
         run: |
-          git config user.name "Kavindu Peiris"
+          git config user.name "kspeiris"
           git config user.email "kavindup52@gmail.com"
 
       - name: Generate random commit count
@@ -29,43 +26,24 @@ jobs:
         run: |
           COUNT=$((RANDOM % 6 + 7))
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
-          echo "Today's commits: $COUNT"
+          echo "Selected $COUNT updates for today"
 
-      - name: Create automated commits
+      - name: Update profile
         run: |
           COUNT=${{ steps.count.outputs.count }}
 
           for i in $(seq 1 $COUNT)
           do
-            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+            TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%S.%3NZ")
 
-            export TIMESTAMP
-            python3 - <<'PY'
-import os
-import re
-from pathlib import Path
-
-path = Path("README.md")
-text = path.read_text(encoding="utf-8")
-timestamp = os.environ.get("TIMESTAMP", "")
-
-text = re.sub(
-    r'<!-- profile-automation:.*? -->',
-    f'<!-- profile-automation: {timestamp} -->',
-    text
-)
-
-path.write_text(text, encoding="utf-8")
-PY
+            sed -i "s|<!-- profile-automation: .* -->|<!-- profile-automation: $TIMESTAMP -->|" README.md
 
             git add README.md
-
             git commit -m "chore: update profile metadata"
-            git pull --rebase origin main || true
             git push
 
             if [ "$i" -lt "$COUNT" ]; then
-              DELAY=$((RANDOM % 300 + 120))
+              DELAY=$((RANDOM % 240 + 60))
               echo "Waiting $DELAY seconds..."
               sleep "$DELAY"
             fi
